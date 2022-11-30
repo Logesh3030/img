@@ -1,0 +1,32 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "<svg fill=\"#FFFFFF\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n",
+        "    <path d=\"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z\"/>\n",
+        "    <path d=\"M0 0h24v24H0z\" fill=\"none\"/>\n",
+        "</svg>"
+      ],
+      "metadata": {
+        "id": "c5JqcgTT_22J"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
